@@ -7,7 +7,6 @@
 - React
 - Redux Toolkit
 - Axios
-- Bootstrap
 - React-Bootstrap
 
 ## Установка и запуск
