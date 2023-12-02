@@ -1,0 +1,32 @@
+.container{
+    overflow-y: hidden;
+}
+
+.nav{
+    --bs-nav-link-color:white !important;
+    --bs-nav-link-hover-color: whitesmoke !important;
+}
+.nav-pills{
+    --bs-nav-pills-link-active-bg: #ff9404 !important;
+    --bs-nav-pills-link-active-color: black !important;
+}
+
+.btn-primary{
+    --bs-btn-bg: none !important ;
+    --bs-btn-border-color: none !important;
+    --bs-btn-hover-bg:#201c1c !important;
+    --bs-btn-active-bg:#201c1c !important; 
+}
+
+.btn-link{
+    --bs-btn-active-color: none !important;
+    --bs-btn-hover-color:none !important;
+}
+
+.btn:hover{
+    border-color: none !important;
+}
+
+.otlkik{
+    --bs-btn-color:black !important;
+}
